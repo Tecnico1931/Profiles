@@ -42,25 +42,7 @@
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>ShowKeychainSyncBuddyAtLogin</key>
-								<false/>
-								<key>LastCacheCleanupProductVersion</key>
-								<string>10.9</string>
-								<key>RunNonInteractive</key>
-								<true/>
 								<key>DidSeeCloudSetup</key>
-								<true/>
-								<key>LastCacheCleanupStillRunning</key>
-								<false/>
-								<key>LastPreLoginTasksPerformedBuild</key>
-								<string>13A603</string>
-								<key>DidSeeSyncSetup</key>
-								<true/>
-								<key>SkipFirstLoginOptimization</key>
-								<true/>
-								<key>LastPreLoginTasksPerformedVersion</key>
-								<string>10.9</string>
-								<key>DidSeeSyncSetup2</key>
 								<true/>
 								<key>LastSeenCloudProductVersion</key>
 								<string>10.9</string>
