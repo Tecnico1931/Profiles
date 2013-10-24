@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadIdentifier</key>
+	<string>org.sacredsf.profile.setupassistant</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>39e06870-1f11-0131-c333-000c2944c108</string>
+	<key>PayloadOrganization</key>
+	<string>SSH</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadDisplayName</key>
+	<string>Setup Assistant</string>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>org.sacredsf.profile.setupassistant</string>
+			<key>PayloadUUID</key>
+			<string>71a9ecf0-1f11-0131-c336-000c2944c108</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadDisplayName</key>
+			<string>Custom: (com.apple.SetupAssistant)</string>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.SetupAssistant</key>
+				<dict>
+					<key>Set-Once</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>ShowKeychainSyncBuddyAtLogin</key>
+								<false/>
+								<key>LastCacheCleanupProductVersion</key>
+								<string>10.9</string>
+								<key>RunNonInteractive</key>
+								<true/>
+								<key>DidSeeCloudSetup</key>
+								<true/>
+								<key>LastCacheCleanupStillRunning</key>
+								<false/>
+								<key>LastPreLoginTasksPerformedBuild</key>
+								<string>13A603</string>
+								<key>DidSeeSyncSetup</key>
+								<true/>
+								<key>SkipFirstLoginOptimization</key>
+								<true/>
+								<key>LastPreLoginTasksPerformedVersion</key>
+								<string>10.9</string>
+								<key>DidSeeSyncSetup2</key>
+								<true/>
+								<key>LastSeenCloudProductVersion</key>
+								<string>10.9</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

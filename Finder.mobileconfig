@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadIdentifier</key>
+	<string>org.sacredsf.profile.finder</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>48a39070-1e4c-0131-c321-000c2944c108</string>
+	<key>PayloadOrganization</key>
+	<string>Schools of the Sacred Heart San Francisco</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadDisplayName</key>
+	<string>Finder Settings</string>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.finder</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>org.sacredsf.profile.finder</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadUUID</key>
+			<string>1bdb6d11-c42f-34a1-e959-d91a75f7465a</string>
+			<key>PayloadDisplayName</key>
+			<string>Finder</string>
+			<key>InterfaceLevel</key>
+			<string>Full</string>
+			<key>ShowHardDrivesOnDesktop</key>
+			<true/>
+			<key>ShowExternalHardDrivesOnDesktop</key>
+			<true/>
+			<key>ShowRemovableMediaOnDesktop</key>
+			<true/>
+			<key>ShowMountedServersOnDesktop</key>
+			<true/>
+			<key>ProhibitConnectTo</key>
+			<false/>
+			<key>ProhibitEject</key>
+			<false/>
+			<key>ProhibitBurn</key>
+			<false/>
+			<key>ProhibitGoToFolder</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>PayloadType</key>
+			<string>com.apple.loginwindow</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>PayloadIdentifier</key>
+			<string>org.sacredsf.profile.finder</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadUUID</key>
+			<string>e91b7a82-b9f3-96c0-2b54-93390e6f2e53</string>
+			<key>PayloadDisplayName</key>
+			<string>Finder</string>
+			<key>RestartDisabledWhileLoggedIn</key>
+			<false/>
+			<key>ShutDownDisabledWhileLoggedIn</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>
