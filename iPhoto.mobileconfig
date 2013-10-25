@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>PayloadIdentifier</key>
-	<string>org.sacredsf.profile.setupassistant</string>
+	<string>org.sacredsf.profile.iphoto</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadScope</key>
@@ -11,13 +11,13 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>39e06870-1f11-0131-c333-000c2944c108</string>
+	<string>5D4B4148-C524-4D4A-BB25-3D7A623E7F0F</string>
 	<key>PayloadOrganization</key>
 	<string>SSH</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>PayloadDisplayName</key>
-	<string>Setup Assistant</string>
+	<string>iPhoto</string>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -26,28 +26,28 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>PayloadIdentifier</key>
-			<string>org.sacredsf.profile.setupassistant</string>
+			<string>org.sacredsf.profile.iphoto</string>
 			<key>PayloadUUID</key>
 			<string>71a9ecf0-1f11-0131-c336-000c2944c108</string>
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadDisplayName</key>
-			<string>Custom: (com.apple.SetupAssistant)</string>
+			<string>Custom: (com.apple.iPhoto)</string>
 			<key>PayloadContent</key>
 			<dict>
-				<key>com.apple.SetupAssistant</key>
+				<key>com.apple.iPhoto</key>
 				<dict>
 					<key>Set-Once</key>
 					<array>
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>DidSeeCloudSetup</key>
-								<true/>
-								<key>LastSeenCloudProductVersion</key>
-								<string>10.9</string>
-								<key>RunNonInteractive</key>
-								<true/>
+								<key>FirstLaunch</key>
+								<string>0</string>
+								<key>GeoCodeLookupPreference</key>
+								<integer>2</integer>
+								<key>TMAFirstLaunchVersion</key>
+								<integer>1</integer>
 							</dict>
 						</dict>
 					</array>
